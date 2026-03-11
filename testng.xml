@@ -1,0 +1,7 @@
+<suite name="CucumberSuite">
+    <test name="WordpressTest">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
