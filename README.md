@@ -35,45 +35,6 @@ The framework tests:
 
 ------------------------------------------------------------------------
 
-# Project Structure
-
-    capstone
-    │
-    ├── src
-    │   ├── main
-    │   │   └── java
-    │   │       ├── pages
-    │   │       │   ├── WordPressPage.java
-    │   │       │   ├── PhotoDirectoryPage.java
-    │   │       │   └── HomePage.java
-    │   │       │
-    │   │       └── base
-    │   │           └── DriverManager.java
-    │   │
-    │   └── test
-    │       ├── java
-    │       │   ├── stepdefinitions
-    │       │   │   ├── CommonSteps.java
-    │       │   │   ├── GetWordPressSteps.java
-    │       │   │   ├── PhotoDirectorySteps.java
-    │       │   │   └── VerifyWordPressSteps.java
-    │       │   │
-    │       │   ├── hooks
-    │       │   │   └── Hooks.java
-    │       │   │
-    │       │   └── runners
-    │       │       └── TestRunner.java
-    │       │
-    │       └── resources
-    │           └── features
-    │               └── wordpress.feature
-    │
-    ├── pom.xml
-    ├── testng.xml
-    └── README.md
-
-------------------------------------------------------------------------
-
 # Dependencies
 
 Main dependencies used in the project:
