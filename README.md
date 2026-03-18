@@ -179,12 +179,3 @@ Or run using **TestNG XML**
 -   Maven dependency management
 -   Modular and scalable structure
 
-------------------------------------------------------------------------
-
-# Future Improvements
-
--   Add reporting (Extent Reports / Allure)
--   Add parallel test execution
--   Add CI/CD integration (GitHub Actions / Jenkins)
--   Add cross browser testing
--   Implement data driven testing
